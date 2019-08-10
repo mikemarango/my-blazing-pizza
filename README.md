@@ -1,2 +1,2 @@
 # my-blazing-pizza
-Blazzing Pizza Workshop
+Adapted from https://github.com/dotnet-presentations/blazor-workshop
